@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\SRPO\bin\Debug\SRPO.exe.config
+C:\Users\student\Desktop\SRPO\bin\Debug\SRPO.exe
+C:\Users\student\Desktop\SRPO\bin\Debug\SRPO.pdb
+C:\Users\student\Desktop\SRPO\obj\Debug\SRPO.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\SRPO\obj\Debug\SRPO.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\SRPO\obj\Debug\SRPO.exe
+C:\Users\student\Desktop\SRPO\obj\Debug\SRPO.pdb
