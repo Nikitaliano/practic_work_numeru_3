@@ -29,6 +29,9 @@ namespace SRPO
                     case 2:
                         result = first - second;
                     break;
+                    case 3:
+                        result = second * first;
+                    break;
 
                     default: Console.WriteLine("нет такой операции");
                     break;
